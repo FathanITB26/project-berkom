@@ -1,0 +1,2 @@
+# project-berkom
+buat kerja
