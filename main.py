@@ -105,7 +105,7 @@ def Newacc():
             newid=random.randint(10_000_000, 99_999_999)
             if(not(newid in emoney)):
                 emoney[newid]=saldo
-                break
+                break 
                 
         print(f"ID Kartu E-money anda : {newid}\nSaldo anda : {emoney[newid]}")
 
